@@ -1,0 +1,15 @@
+{
+  "name": "lesson20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-start.js",
+  "scripts": {
+    "server": "node server-start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
